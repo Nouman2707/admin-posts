@@ -66,8 +66,9 @@ A modern, responsive dashboard application built with Next.js 15 for managing bl
 
 ## 🌐 Live Preview
 
-You can view a live version of the redesigned page here:  
-🔗 [Vercel Link]([[]()
+You can view a live version of the posts admin here:  
+🔗 [View Live on Vercel](https://admin-posts-ng6rqmy4b-noumansiddiqui227-gmailcoms-projects.vercel.app/)
+
 
 ---
 
